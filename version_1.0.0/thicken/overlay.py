@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Ricardo Lugaresi
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 """Puntos de colores sobre el modelo (zonas finas) sin tocar la malla.
 
 Se dibujan con un manejador de la vista 3D; quitar el aviso es borrar los puntos."""

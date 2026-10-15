@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Ricardo Lugaresi
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 """Núcleo común 1.4.0 (copia en thicken) de los complementos del taller (Blender 4.2 a 5.x).
 
 Regla de la casa: TODO se ejecuta en modo Objeto.

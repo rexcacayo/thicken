@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Ricardo Lugaresi
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 """Crea dist/<paquete>-<versión>.zip listo para «Instalar desde disco»."""
 import re
 import zipfile

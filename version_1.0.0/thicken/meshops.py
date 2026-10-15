@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Ricardo Lugaresi
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 """Separar por colores: una pieza por color, con el hueco hecho en la pieza base.
 
 Funciona con cualquier malla pintada por caras (materiales): 3MF pintados, OBJ con

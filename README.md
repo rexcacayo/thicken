@@ -16,4 +16,4 @@ Marca las zonas finas, las hace crecer por sus dos caras hasta el mínimo con un
 
 ## Licencia
 
-GPL-3.0-or-later. Gratis para usar, modificar y compartir; si redistribuyes una versión modificada, publica también su código.
+GPL-3.0-or-later (ver [LICENSE](LICENSE)). Gratis para usar, modificar y compartir; si redistribuyes una versión modificada, publica también su código. Es la licencia que exige extensions.blender.org.

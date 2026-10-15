@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Ricardo Lugaresi
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 bl_info = {'name': 'Thicken', 'author': 'Ricardo Lugaresi', 'version': (1, 0, 0),
            'blender': (4, 2, 0), 'location': 'Vista 3D > N > Thicken',
            'description': 'Engorda solo las zonas demasiado finas para imprimir, sin tocar el resto',

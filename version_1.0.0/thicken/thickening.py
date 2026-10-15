@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Ricardo Lugaresi
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 """Thicken: engorda solo las zonas más finas que el mínimo imprimible.
 
 Cada vértice de una zona fina se empuja hacia fuera la mitad de lo que le falta, así la

@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 Ricardo Lugaresi
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 """Leer y escribir mallas de Blender con numpy (coordenadas de mundo, materiales por cara)."""
 import bpy
 import numpy as np
