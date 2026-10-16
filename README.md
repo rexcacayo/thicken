@@ -12,7 +12,8 @@ Marca las zonas finas, las hace crecer por sus dos caras hasta el mínimo con un
 
 | Versión | Novedades |
 |---|---|
-| 1.1.0 | Primera versión. |
+| 1.1.0 | Modo **Solo grosor**: engorda a lo largo de un eje sin ensanchar (incrustaciones, logos, placas). |
+| 1.0.0 | Primera versión. |
 
 ## Licencia
 
